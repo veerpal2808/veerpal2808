@@ -13,7 +13,7 @@ Java | Data Structures | OOPS | Python | Android
 
 
 
-![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 <h3>Where to find me</h3>
