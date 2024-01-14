@@ -7,7 +7,7 @@
 👩‍💻 Throughout my academic journey, I have gained hands-on experience in programming languages such as Python and Java as well as working with databases, algorithms, and data structures.
 
 **Skills**
-Java | Data Structures | OOPS | Python | Android  
+Java | Data Structures | OOPS | Python | Android  | Full Stack Development
 
 **Linktree:** https://linktr.ee/veerpalkaur
 
